@@ -23,6 +23,15 @@ Tất cả các hoạt động lập kế hoạch, theo dõi tiến độ và t�
 | 7 | Vương Thị Như Quỳnh| 31221021890 | Development Team | [@username] |
 
 _Lưu ý: Hãy yêu cầu các thành viên tạo tài khoản GitHub và thay thế [@username] bằng username thật của họ._
+## 🗺️ Lộ trình Phát triển Dự án (Project Roadmap)
+Dự án được thực hiện theo phương pháp Agile/Scrum, chia thành các Sprint (chặng) với mục tiêu và kết quả rõ ràng. Lộ trình này tuân thủ khung sườn CPMAI để đảm bảo tính toàn diện từ kinh doanh đến kỹ thuật.
+
+| Sprint | Mục tiêu (Objective) | Hoạt động chính (Key Activities) | Kết quả đầu ra chính (Key Deliverables) |
+| :--- | :--- | :--- | :--- |
+| **Sprint 0**<br>*(Tuần 1)*<br> **Khởi động** | Chọn đề tài, xác định "nỗi đau", phác thảo giải pháp AI và lập kế hoạch tổng thể. | - Brainstorm & chọn đề tài/công ty.<br>- Lập AI Canvas phiên bản đầu tiên (v1).<br>- Phân vai trò (SM, PO, Dev Team).<br>- Thiết lập công cụ quản lý (GitHub, Notion). | 📄 **AI Canvas (v1)**<br>📜 **Project Charter (sơ bộ)**<br>🛠️ **Thiết lập GitHub Repo & Notion** |
+| **Sprint 1**<br>*(Tuần 2-3)*<br> **Phân tích** | Hoàn thành **Pha 1: Business Understanding** của CPMAI. Xây dựng một luận cứ kinh doanh (business case) vững chắc. | - Phân tích bối cảnh (SWOT, PESTEL).<br>- Xác định KPI kinh doanh & Metrics kỹ thuật.<br>- Ước tính ROI/NPV sơ bộ.<br>- Hoàn thiện AI Canvas (v2). | 📈 **Báo cáo Phân tích Kinh doanh**<br>📄 **AI Canvas (v2)**<br>🗣️ **Báo cáo Tiến độ lần 1** |
+| **Sprint 2**<br>*(Tuần 4-5)*<br> **Thiết kế** | Hoàn thành các pha lý thuyết của CPMAI (Data, Modeling, Evaluation, Operationalization). | - Mô tả nguồn dữ liệu & Feature Engineering.<br>- Thiết kế kiến trúc mô hình & lựa chọn thuật toán.<br>- Lập kế hoạch đánh giá (Evaluation Plan).<br>- Thiết kế kế hoạch triển khai & Mockups. | 📐 **Tài liệu Thiết kế Giải pháp AI**<br>🖥️ **Mockups & Wireframes**<br>🗣️ **Báo cáo Tiến độ lần 2** |
+| **Sprint 3**<br>*(Tuần 6-7)*<br> **Hoàn thiện** | Tổng hợp tài liệu, hoàn thiện các sản phẩm cuối kỳ và luyện tập thuyết trình (pitching). | - Viết báo cáo đồ án hoàn chỉnh.<br>- Thiết kế slide thuyết trình.<br>- Thiết kế brochure marketing cho sản phẩm.<br>- Luyện tập pitching & phản biện. | 🏆 **Báo cáo Đồ án Cuối kỳ**<br>📊 **Slide Thuyết trình**<br>📰 **Brochure Sản phẩm** |
 
 ## 4. 🛠️ Công nghệ & Phương pháp luận (Tech Stack & Methodology)
 * **Phương pháp luận:** CPMAI x Agile/Scrum
