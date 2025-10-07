@@ -1,4 +1,4 @@
-# 🚀 Dự án AI: [Tên Dự án của bạn - Ví dụ: Tối ưu Tỷ lệ Chuyển đổi cho PNJ]
+# 🚀 Dự án AI: [Tên Dự án]
 _Nhóm 11 - Lớp Dự án Trí tuệ nhân tạo (UEH)_
 
 ![Project Banner]([https://i.imgur.com/g8c222j.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstartupwheel.vn%2Fvi%2Fpartner%2Fueh-institute-of-innovation%2F&psig=AOvVaw1-Zj9uJUVChFWNxOy6DjeA&ust=1759931882442000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjR1KefkpADFQAAAAAdAAAAABAE))
@@ -8,7 +8,7 @@ Dự án này được xây dựng nhằm giải quyết vấn đề **[Nêu "n�
 
 ## 2. 🌐 Trung tâm Quản lý Dự án (Project Hub)
 Tất cả các hoạt động lập kế hoạch, theo dõi tiến độ và tài liệu của dự án được quản lý tại:
-* **[Link đến trang Notion/Website của nhóm bạn]**
+* **[Link đến trang Notion/Website của nhóm]**
 
 ## 3. 👨‍💻 Đội ngũ Phát triển (The Team)
 
