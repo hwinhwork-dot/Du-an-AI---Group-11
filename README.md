@@ -38,6 +38,7 @@ Dự án được thực hiện theo phương pháp Agile/Scrum, chia thành cá
 * **Công cụ Quản lý:** GitHub (Issues, Projects, Milestones), Notion
 * **Công cụ Phân tích (đề xuất):** Python (Pandas, Scikit-learn), Orange Data Mining
 * **Mô hình (đề xuất):** Random Forest, XGBoost
+* **Ma trận Trách nhiệm:** [Xem chi tiết tại đây](./docs/00_project_management/RACI_Matrix.md)
 
 ---
 _Đây là đồ án trong khuôn khổ môn học Dự án Trí tuệ nhân tạo tại trường Đại học Kinh tế TP. Hồ Chí Minh (UEH)._
