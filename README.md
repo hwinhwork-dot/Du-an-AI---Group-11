@@ -1,7 +1,7 @@
 # 🚀 Dự án AI: [Tên Dự án của bạn - Ví dụ: Tối ưu Tỷ lệ Chuyển đổi cho PNJ]
 _Nhóm 11 - Lớp Dự án Trí tuệ nhân tạo (UEH)_
 
-![Project Banner](https://i.imgur.com/g8c222j.png)
+![Project Banner]([https://i.imgur.com/g8c222j.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstartupwheel.vn%2Fvi%2Fpartner%2Fueh-institute-of-innovation%2F&psig=AOvVaw1-Zj9uJUVChFWNxOy6DjeA&ust=1759931882442000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjR1KefkpADFQAAAAAdAAAAABAE))
 
 ## 1. Tổng quan (Overview)
 Dự án này được xây dựng nhằm giải quyết vấn đề **[Nêu "nỗi đau" chính, ví dụ: tỷ lệ khách hàng bỏ giỏ hàng cao]** tại công ty **[Tên công ty]**. Bằng cách áp dụng mô hình AI **[Loại mô hình, ví dụ: Phân loại & Gợi ý]**, chúng tôi đề xuất giải pháp **[Tên giải pháp]** để giúp **[Nêu "phần thưởng" chính, ví dụ: tăng tỷ lệ chuyển đổi đơn hàng lên 15%]**, dự kiến mang lại giá trị **[X]** tỷ đồng mỗi năm.
