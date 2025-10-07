@@ -23,7 +23,7 @@ Tất cả các hoạt động lập kế hoạch, theo dõi tiến độ và t�
 | 7 | Vương Thị Như Quỳnh| 31221021890 | Development Team | [@username] |
 
 _Lưu ý: Hãy yêu cầu các thành viên tạo tài khoản GitHub và thay thế [@username] bằng username thật của họ._
-## 🗺️ Lộ trình Phát triển Dự án (Project Roadmap)
+## 4. 🗺️ Lộ trình Phát triển Dự án (Project Roadmap)
 Dự án được thực hiện theo phương pháp Agile/Scrum, chia thành các Sprint (chặng) với mục tiêu và kết quả rõ ràng. Lộ trình này tuân thủ khung sườn CPMAI để đảm bảo tính toàn diện từ kinh doanh đến kỹ thuật.
 
 | Sprint | Mục tiêu (Objective) | Hoạt động chính (Key Activities) | Kết quả đầu ra chính (Key Deliverables) |
@@ -33,7 +33,7 @@ Dự án được thực hiện theo phương pháp Agile/Scrum, chia thành cá
 | **Sprint 2**<br>*(Tuần 4-5)*<br> **Thiết kế** | Hoàn thành các pha lý thuyết của CPMAI (Data, Modeling, Evaluation, Operationalization). | - Mô tả nguồn dữ liệu & Feature Engineering.<br>- Thiết kế kiến trúc mô hình & lựa chọn thuật toán.<br>- Lập kế hoạch đánh giá (Evaluation Plan).<br>- Thiết kế kế hoạch triển khai & Mockups. | 📐 **Tài liệu Thiết kế Giải pháp AI**<br>🖥️ **Mockups & Wireframes**<br>🗣️ **Báo cáo Tiến độ lần 2** |
 | **Sprint 3**<br>*(Tuần 6-7)*<br> **Hoàn thiện** | Tổng hợp tài liệu, hoàn thiện các sản phẩm cuối kỳ và luyện tập thuyết trình (pitching). | - Viết báo cáo đồ án hoàn chỉnh.<br>- Thiết kế slide thuyết trình.<br>- Thiết kế brochure marketing cho sản phẩm.<br>- Luyện tập pitching & phản biện. | 🏆 **Báo cáo Đồ án Cuối kỳ**<br>📊 **Slide Thuyết trình**<br>📰 **Brochure Sản phẩm** |
 
-## 4. 🛠️ Công nghệ & Phương pháp luận (Tech Stack & Methodology)
+## 5. 🛠️ Công nghệ & Phương pháp luận (Tech Stack & Methodology)
 * **Phương pháp luận:** CPMAI x Agile/Scrum
 * **Công cụ Quản lý:** GitHub (Issues, Projects, Milestones), Notion
 * **Công cụ Phân tích (đề xuất):** Python (Pandas, Scikit-learn), Orange Data Mining
