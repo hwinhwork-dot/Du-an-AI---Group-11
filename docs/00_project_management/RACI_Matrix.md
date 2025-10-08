@@ -14,10 +14,10 @@
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Sprint 0] Brainstorm & lựa chọn đề tài | R | **A** | R | R | R | R | R |
-| [Sprint 0] Xây dựng AI Canvas v1 | C | **A** | **R** | **R** | **R** | **R** | **R** |
+| [Sprint 0] Brainstorm & lựa chọn đề tài | **A** | R | R | R | R | R | R |
+| [Sprint 0] Xây dựng AI Canvas v1 | C | C | **R** | **R** | **R** | **A** | **I** |
 | [Sprint 0] Phân vai trò & thiết lập công cụ | **A** | I | I | I | I | I | I |
-| [Sprint 0] Thiết lập GitHub repo & Kanban | **A** | C | **R** | I | I | I | I |
+| [Sprint 0] Thiết lập GitHub repo & Kanban | **R****A** | C | I | I | I | I | I |
 
 ---
 
@@ -25,8 +25,8 @@
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Sprint 1] Phân tích bối cảnh (SWOT, PESTEL) | I | **A** | **R** | **R** | C | I | C |
-| [Sprint 1] Xác định KPI & Metrics | I | **A** | **R** | I | **R** | C | I |
+| [Sprint 1] Phân tích bối cảnh (SWOT, PESTEL) | I | C | **R** | **R** | C | I | **A** |
+| [Sprint 1] Xác định KPI & Metrics | C | C | **R** | **R** | **R** | **A** | **A** |
 | [Sprint 1] Ước tính ROI & Chi phí - Lợi ích | I | **A** | C | **R** | I | **R** | C |
 | [Sprint 1] Hoàn thiện AI Canvas (v2) | C | **A** | **R** | **R** | **R** | **R** | **R** |
 | [Sprint 1] Chuẩn bị tài liệu Báo cáo Tiến độ 1 | **A** | C | I | I | **R** | **R** | I |
