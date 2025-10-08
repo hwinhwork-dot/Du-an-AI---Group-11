@@ -14,15 +14,15 @@ Tất cả các hoạt động lập kế hoạch, theo dõi tiến độ và t�
 
 | STT | Họ và Tên | MSSV | Vai trò trong dự án | GitHub |
 |:---:|:---|:---|:---|:---|
-| 1 | Nguyễn Hoàng Minh | 31221021575 | Scrum Master | [@hwinhwork-dot] |
-| 2 | Nguyễn Huyền Diệu | 31221024865 | Product Owner | [@douongcocon2004-hash] |
-| 3 | Vũ Thị Như Quỳnh | 31221023513 | Development Team | [@username] |
-| 4 | Lương Duy Minh Kiệt| 31221023817 | Development Team | [@kietueh] |
-| 5 | Nguyễn Lê Huy | 31221021402 | Development Team | [@username] |
-| 6 | Nguyễn Thiên Ân | 31221022348 | Development Team | [@beiuthichcamhoa] |
-| 7 | Vương Thị Như Quỳnh| 31221021890 | Development Team | [@quynhhvuong] |
+| 1 | Nguyễn Hoàng Minh | 31221021575 | Scrum Master | @hwinhwork-dot |
+| 2 | Nguyễn Huyền Diệu | 31221024865 | Product Owner | @douongcocon2004-hash |
+| 3 | Vũ Thị Như Quỳnh | 31221023513 | Development Team | @quynhquynhneee |
+| 4 | Lương Duy Minh Kiệt| 31221023817 | Development Team | @kietueh |
+| 5 | Nguyễn Lê Huy | 31221021402 | Development Team | @huyangry |
+| 6 | Nguyễn Thiên Ân | 31221022348 | Development Team | @beiuthichcamhoa |
+| 7 | Vương Thị Như Quỳnh| 31221021890 | Development Team | @quynhhvuong |
 
-_Lưu ý: Hãy yêu cầu các thành viên tạo tài khoản GitHub và thay thế [@username] bằng username thật của họ._
+
 ## 4. 🗺️ Lộ trình Phát triển Dự án (Project Roadmap)
 Dự án được thực hiện theo phương pháp Agile/Scrum, chia thành các Sprint (chặng) với mục tiêu và kết quả rõ ràng. Lộ trình này tuân thủ khung sườn CPMAI để đảm bảo tính toàn diện từ kinh doanh đến kỹ thuật.
 
