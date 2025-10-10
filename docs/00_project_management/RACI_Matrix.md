@@ -15,7 +15,8 @@
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 0] Brainstorm & lựa chọn đề tài | **A** | R | R | R | R | R | R |
-| [Sprint 0] Xây dựng AI Canvas v1 | C | C | **R** | **R** | **R** | **A** | **I** |
+| [Sprint 0] Bản mô tả ý tưởng dự án | **R,A** | C | C | C | C | C | C |
+| [Sprint 0] Xây dựng AI Canvas v1 | **A** | **R** | **R** | C | C | **I** | **I** |
 | [Sprint 0] Phân vai trò & thiết lập công cụ | **A** | I | I | I | I | I | I |
 | [Sprint 0] Thiết lập GitHub repo & Kanban | **R,A**  | C | I | I | I | I | I |
 
