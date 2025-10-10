@@ -10,15 +10,16 @@
 
 ---
 
-### Sprint 0: Project Kick-off & Planning
+### Sprint 0: Project Kick-off & Planning (06/10/2025 - 22/10/2025)
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Sprint 0] Brainstorm & lựa chọn đề tài | **A** | R | R | R | R | R | R |
-| [Sprint 0] Bản mô tả ý tưởng dự án | **R,A** | C | C | C | C | C | C |
-| [Sprint 0] Xây dựng AI Canvas v1 | **A** | **R** | **R** | C | C | **I** | **I** |
-| [Sprint 0] Phân vai trò & thiết lập công cụ | **A** | I | I | I | I | I | I |
-| [Sprint 0] Thiết lập GitHub repo & Kanban | **R,A**  | C | I | I | I | I | I |
+| [Sprint 0] 1. Brainstorm & lựa chọn đề tài | **A** | R | R | R | R | R | R |
+| [Sprint 0] 2. Thiết lập GitHub repo | **R,A**  | C | I | I | I | I | I |
+| [Sprint 0] 3. Họp bầu Leader và chốt ý tưởng | **R**  | I | I | I | I | I | I |
+| [Sprint 0] 4. Bản mô tả ý tưởng dự án | **R,A** | C | C | C | C | C | C |
+| [Sprint 0] 5. Xây dựng AI Canvas v1 | **A** | **R** | **R** | C | C | **I** | **I** |
+| [Sprint 0] 6. Phân vai trò & thiết lập công cụ | **A** | I | I | I | I | I | I |
 
 ---
 
