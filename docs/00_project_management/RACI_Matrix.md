@@ -18,7 +18,7 @@
 | [Sprint 0] 2. Thiết lập GitHub repo | **R,A**  | C | I | I | I | I | I |
 | [Sprint 0] 3. Họp bầu Leader và chốt ý tưởng | **R**  | I | I | I | I | I | I |
 | [Sprint 0] 4. Bản mô tả ý tưởng dự án | **R,A** | C | C | C | C | C | C |
-| [Sprint 0] 5. Xây dựng AI Canvas v1 | **A** | **R** | **R** | C | C | **I** | **I** |
+| [Sprint 0] 5. Xây dựng AI Canvas v1 | **A** | **R** | I | C | C | **R** | I |
 | [Sprint 0] 6. Phân vai trò & thiết lập công cụ | **A** | I | I | I | I | I | I |
 
 ---
