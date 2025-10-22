@@ -12,7 +12,7 @@
 
 ### Sprint 0: Project Kick-off & Planning (06/10/2025 - 16/10/2025)
 
-| Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
+| Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 0] 1. Brainstorm & lựa chọn đề tài | **A** | R | R | R | R | R | R |
 | [Sprint 0] 2. Thiết lập GitHub repo | **R,A** | C | I | I | I | I | I |
@@ -25,7 +25,7 @@
 
 ### Sprint 1: Business Understanding & Case Building 
 
-| Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
+| Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 1] 1. Nghiên cứu Doanh nghiệp / Bối cảnh | C | I | I | **R** | **A** | C | I |
 | [Sprint 1] 2. Phân tích Doanh nghiệp (PESTEL, SWOT) | C | I | **R** | I | I | C | **A** |
@@ -39,7 +39,7 @@
 
 ### Sprint 2: Data Understanding & Modeling Planning 
 
-| Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
+| Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 2] 1. Tìm kiếm và Mô tả nguồn dữ liệu | **R** | I | I | I | C | **A** | C |
 | [Sprint 2] 2. Kế hoạch và bước đầu chuẩn bị dữ liệu | **A** | I | C | C | I | **R** | I |
@@ -55,7 +55,7 @@
 * **Mục tiêu Sprint:** Chuyển đổi dữ liệu thô từ HDF5 thành một pipeline tự động, sạch, và sẵn sàng cho mô hình.
 * **Deliverables:** Bộ `DataLoader` hoàn chỉnh cho training/validation; file `vocab.pt` đã lưu.
 
-| Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
+| Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 3] 1. Phân tích & Khám phá Dữ liệu (EDA) | **A** | C | **R** | I | C | **R** | I |
 | [Sprint 3] 2. Xây dựng Vocabulary | **A** | I | C | **R** | I | C | **R** |
@@ -71,7 +71,7 @@
 * **Mục tiêu Sprint:** Huấn luyện thành công mô hình Seq2Seq (LSTM) cơ bản (Baseline) để có một mốc so sánh hiệu năng.
 * **Deliverables:** Các file checkpoint (`.pt`) của mô hình baseline; Báo cáo quá trình training (loss).
 
-| Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
+| Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 4] 1. Cài đặt Kiến trúc Baseline (Seq2Seq) | **A** | I | **R** | **R** | C | I | I |
 | [Sprint 4] 2. Xây dựng Vòng lặp Huấn luyện (Training Loop) | **A** | I | I | C | **R** | **R** | C |
@@ -86,7 +86,7 @@
 * **Mục tiêu Sprint:** Đánh giá hiệu năng (WER) của mô hình Baseline và bắt đầu xây dựng, huấn luyện mô hình V2 (có Attention) để cải thiện.
 * **Deliverables:** Báo cáo WER của V1; Các file checkpoint (`.pt`) của mô hình V2 (Attention).
 
-| Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
+| Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 5] 1. Xây dựng Hàm Đánh giá (WER) | **A** | I | **R** | C | I | I | C |
 | [Sprint 5] 2. Chạy Đánh giá V1 & Phân tích Lỗi | I | **A** | C | **R** | C | C | **R** |
@@ -101,7 +101,7 @@
 * **Mục tiêu Sprint:** Chọn ra mô hình tốt nhất (Best Model) dựa trên WER và xây dựng một sản phẩm demo tương tác (Prototype) để báo cáo cuối kỳ.
 * **Deliverables:** Báo cáo so sánh V1 vs V2; Link demo Gradio; Tài liệu dự án hoàn chỉnh.
 
-| Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
+| Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 6] 1. Chạy Đánh giá V2 & Chọn Mô hình Tốt nhất | I | **A** | **R** | **R** | I | I | I |
 | [Sprint 6] 2. Xây dựng Giao diện Demo (Gradio) | **A** | C | I | C | **R** | C | **R** |
