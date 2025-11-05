@@ -103,56 +103,56 @@
 ---
 ---
 
-### **Bảng Ước tính Khối lượng Công việc (Theo Task)**
+## Bảng Ước tính Khối lượng Công việc (Theo Task)
 
 **Quy tắc tính:**
-* **R / A (Responsible / Accountable):** 3-4 ngày (24-32 giờ) + sai lệch ngẫu nhiên (45-60 phút).
-* **C (Consulted):** 6-7 giờ (sai lệch ngẫu nhiên).
+* **R / A (Responsible / Accountable):** 3-4 ngày (24-32 giờ), với sai lệch ngẫu nhiên 45-60 phút.
+* **C (Consulted):** 6-7 giờ, với sai lệch ngẫu nhiên 15-45 phút.
 * **I (Informed):** 4 giờ (cố định).
 
-| Công việc (Issue) | Phân bố (R/A/C/I) | Tổng Giờ Ước tính |
-| :--- | :--- | :--- |
-| **Sprint 0** | | |
-| [S0] 1. Brainstorm & lựa chọn đề tài | 6R, 1A, 0C, 0I | 201.10 giờ |
-| [S0] 2. Thiết lập GitHub repo | 1R, 1A, 1C, 6I | 88.65 giờ |
-| [S0] 3. Họp bầu Leader và chốt ý tưởng | 1R, 0A, 0C, 6I | 54.80 giờ |
-| [S0] 4. Bản mô tả ý tưởng dự án | 1R, 1A, 6C, 0I | 98.40 giờ |
-| [S0] 5. Xây dựng AI Canvas v1 | 2R, 1A, 2C, 2I | 108.95 giờ |
-| [S0] 6. Phân vai trò & thiết lập công cụ | 0R, 1A, 0C, 6I | 53.60 giờ |
-| **Sprint 1** | | |
-| [S1] 1. Nghiên cứu Doanh nghiệp (#6) | 1R, 1A, 2C, 3I | 81.15 giờ |
-| [S1] 2. Phân tích Doanh nghiệp (#7) | 1R, 1A, 3C, 2I | 83.20 giờ |
-| [S1] 3. Kế hoạch phát triển dự án (#8) | 1R, 1A, 4C, 1I | 85.90 giờ |
-| **[MỚI]** [S1] 4. Họp brief & chia task AI Canvas V2 (#15) | 1R, 1A, 1C, 5I | 84.15 giờ |
-| **[MỚI]** [S1] 5. Ước tính ROI & Hoàn thiện AI Canvas (v2) (#13) | 6R, 1A, 0C, 1I | 205.85 giờ |
-| **[MỚI]** [S1] 6. [Báo cáo lần 1] Phân công Slides và Thuyết trình (#11) | 5R, 1A, 1C, 0I | 175.70 giờ |
-| **Sprint 2 & 3** | | |
-| [S2&3] 1. Kế hoạch dữ liệu (#9) | 1R, 1A, 2C, 3I | 81.90 giờ |
-| [S2&3] 2. Tìm kiếm và Mô tả nguồn dữ liệu (#10) | 1R, 1A, 2C, 3I | 82.60 giờ |
-| **[MỚI]** [S2&3] 3. Thiết kế mô hình & Lựa chọn thuật toán (#12) | 5R, 2A, 0C, 0I | 200.70 giờ |
-| **[MỚI]** [S2&3] 4. Xây dựng kế hoạch triển khai & Mockups (#14) | 3R, 1A, 0C, 3I | 126.90 giờ |
-| **Sprint 4** | | |
-| [S4] 1. Phân tích & Khám phá Dữ liệu (EDA) | 2R, 1A, 2C, 2I | 108.95 giờ |
-| [S4] 2. Xây dựng Vocabulary & lưu file `.pt` | 2R, 1A, 2C, 2I | 107.20 giờ |
-| [S4] 3. Xây dựng lớp `BrainToTextDataset` | 2R, 0A, 3C, 2I | 83.85 giờ |
-| [S4] 4. Xây dựng `collate_fn` (Xử lý Padding) | 2R, 1A, 1C, 3I | 105.10 giờ |
-| [S4] 5. Kiểm thử (Unit Test) DataLoader | 2R, 1A, 2C, 2I | 107.20 giờ |
-| [S4] 6. Họp Sprint Review & Retrospective | 7R, 2A, 0C, 0I | 260.40 giờ |
-| **Sprint 5** | | |
-| [S5] 1. Cài đặt Kiến trúc Baseline (Seq2Seq) | 2R, 1A, 1C, 3I | 104.10 giờ |
-| [S5] 2. Xây dựng Vòng lặp Huấn luyện (Training Loop) | 2R, 1A, 2C, 2I | 107.20 giờ |
-| [S5] 3. Huấn luyện Mô hình Baseline (10 Epochs) | 1R, 1A, 3C, 2I | 84.70 giờ |
-| [S5] 4. Lưu Model Checkpoints & Log results | 1R, 1A, 2C, 3I | 82.60 giờ |
-| [S5] 5. Họp Sprint Review & Retrospective | 7R, 2A, 0C, 0I | 260.40 giờ |
-| **Sprint 6** | | |
-| [S6] 1. Xây dựng Hàm Đánh giá (WER) | 1R, 1A, 3C, 2I | 84.70 giờ |
-| [S6] 2. Chạy Đánh giá V1 & Phân tích Lỗi | 2R, 1A, 3C, 1I | 108.85 giờ |
-| [S6] 3. Cài đặt Kiến trúc V2 (Attention) | 2R, 1A, 2C, 2I | 108.95 giờ |
-| [S6] 4. Huấn luyện Mô hình V2 (10 Epochs) | 1R, 1A, 3C, 2I | 84.70 giờ |
-| [S6] 5. Họp Sprint Review & Retrospective | 7R, 2A, 0C, 0I | 260.40 giờ |
-| **Sprint 7** | | |
-| [S7] 1. Chạy Đánh giá V2 & Chọn Mô hình Tốt nhất | 2R, 1A, 0C, 4I | 102.15 giờ |
-| [S7] 2. Xây dựng Giao diện Demo (Gradio) | 2R, 1A, 3C, 1I | 109.85 giờ |
-| [S7] 3. Chuẩn bị Tài liệu Báo cáo Cuối kỳ | 6R, 2A, 0C, 0I | 230.80 giờ |
-| [S7] 4. Quay video Demo & Thiết kế Brochure/Poster | 2R, 1A, 3C, 1I | 109.85 giờ |
-| [S7] 5. Họp Sprint Review (Final Presentation Prep) | 7R, 2A, 0C, 0I | 260.40 giờ |
+| Công việc (Issue) | Phân bố (R/A/C/I) | Chi tiết Giờ (R) | Chi tiết Giờ (A) | Chi tiết Giờ (C) | Chi tiết Giờ (I) | **Tổng Giờ Ước tính** |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Sprint 0** | | | | | | |
+| [S0] 1. Brainstorm & lựa chọn đề tài (#1) | 6R, 1A, 0C, 0I | 166.25 | 31.00 | 0.00 | 0.00 | **197.25 giờ** |
+| [S0] 2. Thiết lập GitHub repo | 1R, 1A, 1C, 6I | 31.25 | 23.25 | 6.75 | 24.00 | **85.25 giờ** |
+| [S0] 3. Họp bầu Leader và chốt ý tưởng (#2) | 1R, 0A, 0C, 6I | 24.75 | 0.00 | 0.00 | 24.00 | **48.75 giờ** |
+| [S0] 4. Bản mô tả ý tưởng dự án (#3) | 1R, 1A, 6C, 0I | 31.00 | 25.00 | 38.50 | 0.00 | **94.50 giờ** |
+| [S0] 5. Xây dựng AI Canvas v1 (#4) | 2R, 1A, 2C, 2I | 56.00 | 31.25 | 12.50 | 8.00 | **107.75 giờ** |
+| [S0] 6. Họp Brief về Doanh nghiệp và chia tasks (#5) | 0R, 1A, 0C, 6I | 0.00 | 23.00 | 0.00 | 24.00 | **47.00 giờ** |
+| **Sprint 1** | | | | | | |
+| [S1] 1. Nghiên cứu Doanh nghiệp (#6) | 1R, 1A, 2C, 3I | 31.25 | 24.25 | 12.75 | 12.00 | **80.25 giờ** |
+| [S1] 2. Phân tích Doanh nghiệp (#7) | 1R, 1A, 3C, 2I | 23.25 | 32.00 | 19.00 | 8.00 | **82.25 giờ** |
+| [S1] 3. Kế hoạch phát triển dự án (#8) | 1R, 1A, 4C, 1I | 23.00 | 31.00 | 25.50 | 4.00 | **83.50 giờ** |
+| [S1] 4. Họp brief & chia task AI Canvas V2 (#15) | 1R, 1A, 1C, 4I | 31.25 | 23.25 | 6.25 | 16.00 | **76.75 giờ** |
+| [S1] 5. Ước tính ROI & Hoàn thiện AI Canvas (v2) (#13) | 6R, 1A, 0C, 0I | 166.25 | 31.00 | 0.00 | 0.00 | **197.25 giờ** |
+| [S1] 6. [Báo cáo lần 1] Phân công Slides và Thuyết trình (#11) | 5R, 1A, 1C, 0I | 141.25 | 25.00 | 6.75 | 0.00 | **173.00 giờ** |
+| **Sprint 2 & 3** | | | | | | |
+| [S2&3] 1. Kế hoạch dữ liệu (#9) | 1R, 1A, 2C, 3I | 24.75 | 31.25 | 12.50 | 12.00 | **80.50 giờ** |
+| [S2&3] 2. Tìm kiếm và Mô tả nguồn dữ liệu (#10) | 1R, 1A, 2C, 3I | 31.00 | 23.00 | 13.75 | 12.00 | **79.75 giờ** |
+| [S2&3] 3. Thiết kế mô hình & Lựa chọn thuật toán (#12) | 5R, 2A, 0C, 0I | 141.25 | 56.00 | 0.00 | 0.00 | **197.25 giờ** |
+| [S2&3] 4. Xây dựng kế hoạch triển khai & Mockups (#14) | 3R, 1A, 0C, 3I | 81.50 | 23.25 | 0.00 | 12.00 | **116.75 giờ** |
+| **Sprint 4** | | | | | | |
+| [S4] 1. Phân tích & Khám phá Dữ liệu (EDA) | 2R, 1A, 2C, 2I | 56.00 | 31.25 | 12.50 | 8.00 | **107.75 giờ** |
+| [S4] 2. Xây dựng Vocabulary & lưu file `.pt` | 2R, 1A, 2C, 2I | 55.00 | 23.00 | 13.75 | 8.00 | **99.75 giờ** |
+| [S4] 3. Xây dựng lớp `BrainToTextDataset` | 2R, 0A, 3C, 2I | 55.25 | 0.00 | 19.00 | 8.00 | **82.25 giờ** |
+| [S4] 4. Xây dựng `collate_fn` (Xử lý Padding) | 2R, 1A, 1C, 3I | 56.00 | 31.25 | 6.25 | 12.00 | **105.50 giờ** |
+| [S4] 5. Kiểm thử (Unit Test) DataLoader | 2R, 1A, 2C, 2I | 55.00 | 23.00 | 13.75 | 8.00 | **99.75 giờ** |
+| [S4] 6. Họp Sprint Review & Retrospective | 7R, 2A, 0C, 0I | 192.50 | 55.25 | 0.00 | 0.00 | **247.75 giờ** |
+| **Sprint 5** | | | | | | |
+| [S5] 1. Cài đặt Kiến trúc Baseline (Seq2Seq) | 2R, 1A, 1C, 3I | 55.25 | 32.00 | 6.75 | 12.00 | **106.00 giờ** |
+| [S5] 2. Xây dựng Vòng lặp Huấn luyện (Training Loop) | 2R, 1A, 2C, 2I | 56.00 | 31.25 | 12.50 | 8.00 | **107.75 giờ** |
+| [S5] 3. Huấn luyện Mô hình Baseline (10 Epochs) | 1R, 1A, 3C, 2I | 23.00 | 31.00 | 19.00 | 8.00 | **81.00 giờ** |
+| [S5] 4. Lưu Model Checkpoints & Log results | 1R, 1A, 2C, 3I | 31.25 | 24.25 | 12.75 | 12.00 | **80.25 giờ** |
+| [S5] 5. Họp Sprint Review & Retrospective | 7R, 2A, 0C, 0I | 192.50 | 55.25 | 0.00 | 0.00 | **247.75 giờ** |
+| **Sprint 6** | | | | | | |
+| [S6] 1. Xây dựng Hàm Đánh giá (WER) | 1R, 1A, 3C, 2I | 23.00 | 31.00 | 19.00 | 8.00 | **81.00 giờ** |
+| [S6] 2. Chạy Đánh giá V1 & Phân tích Lỗi | 2R, 1A, 3C, 1I | 55.25 | 32.00 | 20.25 | 4.00 | **111.50 giờ** |
+| [S6] 3. Cài đặt Kiến trúc V2 (Attention) | 2R, 1A, 2C, 2I | 56.00 | 31.25 | 12.50 | 8.00 | **107.75 giờ** |
+| [S6] 4. Huấn luyện Mô hình V2 (10 Epochs) | 1R, 1A, 3C, 2I | 23.00 | 31.00 | 19.00 | 8.00 | **81.00 giờ** |
+| [S6] 5. Họp Sprint Review & Retrospective | 7R, 2A, 0C, 0I | 192.50 | 55.25 | 0.00 | 0.00 | **247.75 giờ** |
+| **Sprint 7** | | | | | | |
+| [S7] 1. Chạy Đánh giá V2 & Chọn Mô hình Tốt nhất | 2R, 1A, 0C, 4I | 55.25 | 32.00 | 0.00 | 16.00 | **103.25 giờ** |
+| [S7] 2. Xây dựng Giao diện Demo (Gradio) | 2R, 1A, 3C, 1I | 55.25 | 32.00 | 20.25 | 4.00 | **111.50 giờ** |
+| [S7] 3. Chuẩn bị Tài liệu Báo cáo Cuối kỳ | 6R, 2A, 0C, 0I | 166.25 | 55.00 | 0.00 | 0.00 | **221.25 giờ** |
+| [S7] 4. Quay video Demo & Thiết kế Brochure/Poster | 3R, 0A, 3C, 1I | 81.50 | 0.00 | 20.25 | 4.00 | **105.75 giờ** |
+| [S7] 5. Họp Sprint Review (Final Presentation Prep) | 7R, 2A, 0C, 0I | 192.50 | 55.25 | 0.00 | 0.00 | **247.75 giờ** |
