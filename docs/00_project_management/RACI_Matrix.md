@@ -12,7 +12,7 @@
 
 ### Sprint 0: Project Kick-off & Planning (06/10/2025 - 22/10/2025)
 
-| Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
+| Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 0] 1. Brainstorm & lựa chọn đề tài | **A** | R | R | R | R | R | R |
 | [Sprint 0] 2. Thiết lập GitHub repo | **R,A** | C | I | I | I | I | I |
@@ -25,7 +25,7 @@
 
 ### Sprint 1: Business Understanding & Case Building (23/10/2025 - 05/11/2025)
 
-| Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
+| Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 1] 1. Nghiên cứu Doanh nghiệp | C | I | I | **R** | **A** | C | I |
 | [Sprint 1] 2. Phân tích Doanh nghiệp | C | I | **R** | I | I | C | **A** |
@@ -39,7 +39,7 @@
 ### Sprint 2 & 3: Data & Modeling Planning (05/11/2025 - 15/11/2025)
 *(Các task được cập nhật từ Issues #9, #10, #12, #14)*
 
-| Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
+| Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 2&3] 1. Kế hoạch dữ liệu | **A** | I | C | C | I | **R** | I |
 | [Sprint 2&3] 2. Tìm kiếm và Mô tả nguồn dữ liệu | **R** | I | I | I | C | **A** | C |
@@ -51,7 +51,7 @@
 ### Sprint 4: Data Pipeline Execution (20/11/2025 - 03/12/2025)
 * **Mục tiêu Sprint:** Thực thi Pha 2 & 3 (Data Understanding & Preparation).
 
-| Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
+| Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 4] 1. Phân tích & Khám phá Dữ liệu (EDA) | **A** | C | **R** | I | C | **R** | I |
 | [Sprint 4] 2. Xây dựng Vocabulary & lưu file `.pt` | **A** | I | C | **R** | I | C | **R** |
@@ -65,7 +65,7 @@
 ### Sprint 5: Modeling (Xây dựng Mô hình Baseline) (04/12/2025 - 17/12/2025)
 * **Mục tiêu Sprint:** Thực thi Pha 4 (Data Modeling - Vòng lặp 1).
 
-| Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
+| Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 5] 1. Cài đặt Kiến trúc Baseline (Seq2Seq) | **A** | I | **R** | **R** | C | I | I |
 | [Sprint 5] 2. Xây dựng Vòng lặp Huấn luyện (Training Loop) | **A** | I | I | C | **R** | **R** | C |
@@ -78,7 +78,7 @@
 ### Sprint 6: Evaluation (V1) & Modeling (Cải tiến V2) (18/12/2025 - 31/12/2025)
 * **Mục tiêu Sprint:** Thực thi Pha 5 (Evaluation - Vòng lặp 1) & Pha 4 (Data Modeling - Vòng lặp 2).
 
-| Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
+| Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 6] 1. Xây dựng Hàm Đánh giá (WER) | **A** | I | **R** | C | I | I | C |
 | [Sprint 6] 2. Chạy Đánh giá V1 & Phân tích Lỗi | I | **A** | C | **R** | C | C | **R** |
@@ -92,7 +92,7 @@
 * **Mục tiêu Sprint:** Thực thi Pha 5 (Vòng lặp 2) & Pha 6 (Vận hành hóa).
 * **Deliverables:** Báo cáo so sánh V1 vs V2; Link demo Gradio; Tài liệu dự án hoàn chỉnh.
 
-| Công việc (Issue) | Minh (SM) | Diệu (PO) | V. Quỳnh | Kiệt | Huy | Ân | K. Quỳnh |
+| Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 7] 1. Chạy Đánh giá V2 & Chọn Mô hình Tốt nhất | I | **A** | **R** | **R** | I | I | I |
 | [Sprint 7] 2. Xây dựng Giao diện Demo (Gradio) | **A** | C | I | C | **R** | C | **R** |
