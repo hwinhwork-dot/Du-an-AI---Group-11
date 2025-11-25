@@ -40,9 +40,9 @@ Dự án được thực hiện theo phương pháp Agile/Scrum, chia thành cá
 
 ## 5. 🛠️ Công nghệ & Phương pháp luận (Tech Stack & Methodology)
 * **Phương pháp luận:** CPMAI x Agile/Scrum
-* **Công cụ Quản lý:** GitHub (Issues, Projects, Milestones), Notion
+* **Công cụ Quản lý:** GitHub (Issues, Projects, Milestones.
 * **Công cụ Phân tích (đề xuất):** Python (Pandas, Scikit-learn), Orange Data Mining
-* **Mô hình (đề xuất):** Random Forest, XGBoost
+* **Mô hình (đề xuất):** Sequence2Sequence, Transfomer
 * **Ma trận Trách nhiệm (RACI):** [Xem chi tiết tại đây](./docs/00_project_management/RACI_Matrix.md)
 
 ---
