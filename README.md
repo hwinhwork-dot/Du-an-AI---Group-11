@@ -44,6 +44,9 @@ Dự án được thực hiện theo phương pháp Agile/Scrum, chia thành cá
 * **Công cụ Phân tích (đề xuất):** Python (Pandas, Scikit-learn), Orange Data Mining
 * **Mô hình (đề xuất):** Sequence2Sequence, Transfomer
 * **Ma trận Trách nhiệm (RACI):** [Xem chi tiết tại đây](./docs/00_project_management/RACI_Matrix.md)
+* **Google Colab V1:** [Xem chi tiết tại đây](https://colab.research.google.com/drive/1nksTekQb7kQcq6jTkB6aap5OwyQ7kKc4)
+* **Google Colab V2:** [Xem chi tiết tại đây](https://colab.research.google.com/drive/10P9imS2j7Kb1LgN3jcAu5sJOS5usXXii#scrollTo=u-ayRBll8Uor)
+* **Brochure Dự án:** [Xem chi tiết tại đây](https://heyzine.com/flip-book/e34e5a1cf5.html)
 
 ---
-_Đây là đồ án trong khuôn khổ môn học Dự án Trí tuệ nhân tạo tại trường Đại học Kinh tế TP. Hồ Chí Minh (UEH)._
+_Đây là đồ án trong khuôn khổ môn học Dự án Trí tuệ nhân tạo tại Đại học Kinh tế TP. Hồ Chí Minh (UEH)._
