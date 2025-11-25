@@ -54,11 +54,9 @@
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 4] 1. Phân tích & Khám phá Dữ liệu (EDA) | **A** | C | **R** | I | C | **R** | I |
-| [Sprint 4] 2. Xây dựng Vocabulary & lưu file `.pt` | **A** | I | C | **R** | I | C | **R** |
-| [Sprint 4] 3. Xây dựng lớp `BrainToTextDataset` | I | C | **R** | C | **R** | I | C |
-| [Sprint 4] 4. Xây dựng `collate_fn` (Xử lý Padding) | I | I | C | **R** | **A** | I | **R** |
-| [Sprint 4] 5. Kiểm thử (Unit Test) DataLoader | **A** | I | **R** | I | C | **R** | C |
-| [Sprint 4] 6. Họp Sprint Review & Retrospective | **R,A** | **A** | **R** | **R** | **R** | **R** | **R** |
+| [Sprint 4] 2. Xây dựng Vocabulary & Dataset | I | I | C | **R** | **A** | C | **R** |
+| [Sprint 4] 3. Xây dựng collate_fn & Unit Test | **A** | I | **R** | **R** | **A** | I | **R** |
+| [Sprint 4] 4. Họp Sprint Review & Retrospective | **R,A** | **A** | **R** | **R** | **R** | **R** | **R** |
 
 ---
 
@@ -67,11 +65,9 @@
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Sprint 5] 1. Cài đặt Kiến trúc Baseline (Seq2Seq) | **A** | I | **R** | **R** | C | I | I |
-| [Sprint 5] 2. Xây dựng Vòng lặp Huấn luyện (Training Loop) | **A** | I | I | C | **R** | **R** | C |
-| [Sprint 5] 3. Huấn luyện Mô hình Baseline (10 Epochs) | I | I | C | I | C | **A** | **R** |
-| [Sprint 5] 4. Lưu Model Checkpoints & Log results | I | I | I | I | C | **R** | **A** |
-| [Sprint 5] 5. Họp Sprint Review & Retrospective | **R,A** | **A** | **R** | **R** | **R** | **R** | **R** |
+| [Sprint 5] 1. Cài đặt Baseline (Seq2Seq) & Training Loop | **A** | I | **R** | **R** | C | **R** | I |
+| [Sprint 5] 2. Lưu Model Checkpoints & Log results | I | I | I | I | C | **R** | **A** |
+| [Sprint 5] 3. Họp Sprint Review & Retrospective | **R,A** | **A** | **R** | **R** | **R** | **R** | **R** |
 
 ---
 
@@ -80,11 +76,9 @@
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Sprint 6] 1. Xây dựng Hàm Đánh giá (WER) | **A** | I | **R** | C | I | I | C |
-| [Sprint 6] 2. Chạy Đánh giá V1 & Phân tích Lỗi | I | **A** | C | **R** | C | C | **R** |
-| [Sprint 6] 3. Cài đặt Kiến trúc V2 (Attention) | I | I | **R** | **A** | **R** | C | I |
-| [Sprint 6] 4. Huấn luyện Mô hình V2 (10 Epochs) | I | I | C | I | C | **R** | **A** |
-| [Sprint 6] 5. Họp Sprint Review & Retrospective | **R,A** | **A** | **R** | **R** | **R** | **R** | **R** |
+| [Sprint 6] 1. Xây dựng Hàm Đánh giá (WER) & Đánh giá V1 | **A** | **A** | **R** | **R** | C | I | C |
+| [Sprint 6] 2. Cài đặt Kiến trúc V2 & Huấn luyện V2 | I | I | **R** | **A** | **R** | C | **A** |
+| [Sprint 6] 3. Họp Sprint Review & Retrospective | **R,A** | **A** | **R** | **R** | **R** | **R** | **R** |
 
 ---
 
@@ -96,8 +90,8 @@
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 7] 1. Chạy Đánh giá V2 & Chọn Mô hình Tốt nhất | I | **A** | **R** | **R** | I | I | I |
 | [Sprint 7] 2. Xây dựng Giao diện Demo (Gradio) | **A** | C | I | C | **R** | C | **R** |
-| [Sprint 7] 3. Chuẩn bị Tài liệu Báo cáo Cuối kỳ | **A** | **A** | **R** | **R** | **R** | **R** | **R** |
-| [Sprint 7] 4. Quay video Demo & Thiết kế Brochure/Poster | I | **R** | C | I | **R** | **R** | C |
+| [Sprint 7] 3. Chuẩn bị Tài liệu Báo cáo & Brochure | **A** | **A** | **R** | **R** | **R** | **R** | **R** |
+| [Sprint 7] 4. Xây dựng giao diện Figma | C | **A** | **R** | I | **R** | I | I |
 | [Sprint 7] 5. Họp Sprint Review (Final Presentation Prep) | **R,A** | **A** | **R** | **R** | **R** | **R** | **R** |
 
 ---
@@ -132,27 +126,21 @@
 | [S2&3] 3. Thiết kế mô hình & Lựa chọn thuật toán (#12) | 5R, 2A, 0C, 0I | 141.25 | 56.00 | 0.00 | 0.00 | **197.25 giờ** |
 | [S2&3] 4. Xây dựng kế hoạch triển khai & Mockups (#14) | 3R, 1A, 0C, 3I | 81.50 | 23.25 | 0.00 | 12.00 | **116.75 giờ** |
 | **Sprint 4** | | | | | | |
-| [S4] 1. Phân tích & Khám phá Dữ liệu (EDA) | 2R, 1A, 2C, 2I | 56.00 | 31.25 | 12.50 | 8.00 | **107.75 giờ** |
-| [S4] 2. Xây dựng Vocabulary & lưu file `.pt` | 2R, 1A, 2C, 2I | 55.00 | 23.00 | 13.75 | 8.00 | **99.75 giờ** |
-| [S4] 3. Xây dựng lớp `BrainToTextDataset` | 2R, 0A, 3C, 2I | 55.25 | 0.00 | 19.00 | 8.00 | **82.25 giờ** |
-| [S4] 4. Xây dựng `collate_fn` (Xử lý Padding) | 2R, 1A, 1C, 3I | 56.00 | 31.25 | 6.25 | 12.00 | **105.50 giờ** |
-| [S4] 5. Kiểm thử (Unit Test) DataLoader | 2R, 1A, 2C, 2I | 55.00 | 23.00 | 13.75 | 8.00 | **99.75 giờ** |
-| [S4] 6. Họp Sprint Review & Retrospective | 7R, 2A, 0C, 0I | 192.50 | 55.25 | 0.00 | 0.00 | **247.75 giờ** |
+| [S4] 1. Phân tích & Khám phá Dữ liệu (EDA) (#17) | 2R, 1A, 2C, 2I | 56.00 | 24.25 | 13.50 | 8.00 | **101.75 giờ** |
+| [S4] 2. Xây dựng Vocabulary, file `.pt` & Dataset (#18) | 2R, 1A, 2C, 2I | 55.25 | 23.25 | 14.00 | 8.00 | **100.50 giờ** |
+| [S4] 3. Xây dựng collate_fn & Unit Test (#19) | 2R, 1A, 2C, 2I | 56.50 | 24.00 | 12.75 | 8.00 | **101.25 giờ** |
+| [S4] 4. Họp Sprint Review & Retrospective | 7R, 2A, 0C, 0I | 192.50 | 55.25 | 0.00 | 0.00 | **247.75 giờ** |
 | **Sprint 5** | | | | | | |
-| [S5] 1. Cài đặt Kiến trúc Baseline (Seq2Seq) | 2R, 1A, 1C, 3I | 55.25 | 32.00 | 6.75 | 12.00 | **106.00 giờ** |
-| [S5] 2. Xây dựng Vòng lặp Huấn luyện (Training Loop) | 2R, 1A, 2C, 2I | 56.00 | 31.25 | 12.50 | 8.00 | **107.75 giờ** |
-| [S5] 3. Huấn luyện Mô hình Baseline (10 Epochs) | 1R, 1A, 3C, 2I | 23.00 | 31.00 | 19.00 | 8.00 | **81.00 giờ** |
-| [S5] 4. Lưu Model Checkpoints & Log results | 1R, 1A, 2C, 3I | 31.25 | 24.25 | 12.75 | 12.00 | **80.25 giờ** |
-| [S5] 5. Họp Sprint Review & Retrospective | 7R, 2A, 0C, 0I | 192.50 | 55.25 | 0.00 | 0.00 | **247.75 giờ** |
+| [S5] 1. Cài đặt Baseline (Seq2Seq) & Training Loop (#20) | 2R, 2A, 1C, 1I | 56.00 | 48.50 | 7.00 | 4.00 | **115.50 giờ** |
+| [S5] 2. Lưu Model Checkpoints & Log results (#21) | 2R, 2A, 1C, 1I | 55.50 | 47.75 | 6.75 | 4.00 | **114.00 giờ** |
+| [S5] 3. Họp Sprint Review & Retrospective | 7R, 2A, 0C, 0I | 192.50 | 55.25 | 0.00 | 0.00 | **247.75 giờ** |
 | **Sprint 6** | | | | | | |
-| [S6] 1. Xây dựng Hàm Đánh giá (WER) | 1R, 1A, 3C, 2I | 23.00 | 31.00 | 19.00 | 8.00 | **81.00 giờ** |
-| [S6] 2. Chạy Đánh giá V1 & Phân tích Lỗi | 2R, 1A, 3C, 1I | 55.25 | 32.00 | 20.25 | 4.00 | **111.50 giờ** |
-| [S6] 3. Cài đặt Kiến trúc V2 (Attention) | 2R, 1A, 2C, 2I | 56.00 | 31.25 | 12.50 | 8.00 | **107.75 giờ** |
-| [S6] 4. Huấn luyện Mô hình V2 (10 Epochs) | 1R, 1A, 3C, 2I | 23.00 | 31.00 | 19.00 | 8.00 | **81.00 giờ** |
-| [S6] 5. Họp Sprint Review & Retrospective | 7R, 2A, 0C, 0I | 192.50 | 55.25 | 0.00 | 0.00 | **247.75 giờ** |
+| [S6] 1. Xây dựng Hàm Đánh giá (WER) & Eval V1 (#22) | 2R, 1A, 2C, 1I | 56.25 | 24.00 | 13.50 | 4.00 | **97.75 giờ** |
+| [S6] 2. Cài đặt Kiến trúc V2 & Huấn luyện V2 (#23) | 2R, 1A, 2C, 2I | 55.75 | 23.50 | 12.50 | 8.00 | **99.75 giờ** |
+| [S6] 3. Họp Sprint Review & Retrospective | 7R, 2A, 0C, 0I | 192.50 | 55.25 | 0.00 | 0.00 | **247.75 giờ** |
 | **Sprint 7** | | | | | | |
-| [S7] 1. Chạy Đánh giá V2 & Chọn Mô hình Tốt nhất | 2R, 1A, 0C, 4I | 55.25 | 32.00 | 0.00 | 16.00 | **103.25 giờ** |
-| [S7] 2. Xây dựng Giao diện Demo (Gradio) | 2R, 1A, 3C, 1I | 55.25 | 32.00 | 20.25 | 4.00 | **111.50 giờ** |
-| [S7] 3. Chuẩn bị Tài liệu Báo cáo Cuối kỳ | 6R, 2A, 0C, 0I | 166.25 | 55.00 | 0.00 | 0.00 | **221.25 giờ** |
-| [S7] 4. Quay video Demo & Thiết kế Brochure/Poster | 3R, 0A, 3C, 1I | 81.50 | 0.00 | 20.25 | 4.00 | **105.75 giờ** |
+| [S7] 1. Chạy Đánh giá V2 & Chọn Mô hình Tốt nhất (#24) | 2R, 1A, 2C, 2I | 56.00 | 24.25 | 14.00 | 8.00 | **102.25 giờ** |
+| [S7] 2. Xây dựng Giao diện Demo (Gradio) (#25) | 2R, 1A, 2C, 1I | 55.50 | 23.75 | 13.00 | 4.00 | **96.25 giờ** |
+| [S7] 3. Chuẩn bị Tài liệu Báo cáo & Brochure (#26) | 1R, 1A, 1C, 3I | 28.50 | 24.00 | 6.50 | 12.00 | **71.00 giờ** |
+| [S7] 4. Xây dựng giao diện Figma (#27) | 2R, 1A, 1C, 2I | 56.25 | 23.50 | 7.00 | 8.00 | **94.75 giờ** |
 | [S7] 5. Họp Sprint Review (Final Presentation Prep) | 7R, 2A, 0C, 0I | 192.50 | 55.25 | 0.00 | 0.00 | **247.75 giờ** |
