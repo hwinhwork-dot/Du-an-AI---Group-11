@@ -55,7 +55,7 @@
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Sprint 4] 1. Phân tích & Khám phá Dữ liệu (EDA) | **A** | C | **R** | I | C | **R** | I |
 | [Sprint 4] 2. Xây dựng Vocabulary & Dataset | I | I | C | **R** | **A** | C | **R** |
-| [Sprint 4] 3. Xây dựng collate_fn & Unit Test | **A** | I | **R** | **R** | **A** | I | **R** |
+| [Sprint 4] 3. Xây dựng collate_fn & Unit Test | I | **R** | C | I | **A** | C | **R** |
 | [Sprint 4] 4. Họp Sprint Review & Retrospective | **R,A** | **A** | **R** | **R** | **R** | **R** | **R** |
 
 ---
@@ -65,8 +65,8 @@
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Sprint 5] 1. Cài đặt Baseline (Seq2Seq) & Training Loop | **A** | I | **R** | **R** | C | **R** | I |
-| [Sprint 5] 2. Lưu Model Checkpoints & Log results | I | I | I | I | C | **R** | **A** |
+| [Sprint 5] 1. Cài đặt Baseline (Seq2Seq) & Training Loop | **R** | C | C | I | **A** | **R** | **A** |
+| [Sprint 5] 2. Lưu Model Checkpoints & Log results | I | **R** | **A** | C | C | **A** | **R** |
 | [Sprint 5] 3. Họp Sprint Review & Retrospective | **R,A** | **A** | **R** | **R** | **R** | **R** | **R** |
 
 ---
@@ -76,8 +76,8 @@
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Sprint 6] 1. Xây dựng Hàm Đánh giá (WER) & Đánh giá V1 | **A** | **A** | **R** | **R** | C | I | C |
-| [Sprint 6] 2. Cài đặt Kiến trúc V2 & Huấn luyện V2 | I | I | **R** | **A** | **R** | C | **A** |
+| [Sprint 6] 1. Xây dựng Hàm Đánh giá (WER) & Đánh giá V1 | **R** | C | **R** | I | **A** | I | C |
+| [Sprint 6] 2. Cài đặt Kiến trúc V2 & Huấn luyện V2 | I | C | **R** | C | **R** | I | **A** |
 | [Sprint 6] 3. Họp Sprint Review & Retrospective | **R,A** | **A** | **R** | **R** | **R** | **R** | **R** |
 
 ---
@@ -88,10 +88,10 @@
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Sprint 7] 1. Chạy Đánh giá V2 & Chọn Mô hình Tốt nhất | I | **A** | **R** | **R** | I | I | I |
-| [Sprint 7] 2. Xây dựng Giao diện Demo (Gradio) | **A** | C | I | C | **R** | C | **R** |
-| [Sprint 7] 3. Chuẩn bị Tài liệu Báo cáo & Brochure | **A** | **A** | **R** | **R** | **R** | **R** | **R** |
-| [Sprint 7] 4. Xây dựng giao diện Figma | C | **A** | **R** | I | **R** | I | I |
+| [Sprint 7] 1. Chạy Đánh giá V2 & Chọn Mô hình Tốt nhất | **R** | **A** | I | C | C | **R** | I |
+| [Sprint 7] 2. Xây dựng Giao diện Demo (Gradio) | **R** | C | I | C | **R** | C | **A** |
+| [Sprint 7] 3. Xây dựng Brochure | C | **A** | I | I | I | I | **R** |
+| [Sprint 7] 4. Xây dựng giao diện Figma | C | I | **R** | I | **R** | **A** | I |
 | [Sprint 7] 5. Họp Sprint Review (Final Presentation Prep) | **R,A** | **A** | **R** | **R** | **R** | **R** | **R** |
 
 ---
