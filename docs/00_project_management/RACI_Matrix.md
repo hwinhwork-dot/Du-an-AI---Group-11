@@ -81,7 +81,7 @@
 
 ---
 
-### Sprint 7: Final Evaluation & Operationalization (04/11/2026 - 30/11/2025)
+### Sprint 7: Final Evaluation & Operationalization (04/11/ - 30/11/2025)
 * **Mục tiêu Sprint:** Thực thi Pha 5 (Vòng lặp 2) & Pha 6 (Vận hành hóa).
 * **Deliverables:** Báo cáo so sánh V1 vs V2; Link demo Gradio; Tài liệu dự án hoàn chỉnh.
 
