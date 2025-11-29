@@ -10,7 +10,7 @@ Nhóm đã dựng xong **pipeline dữ liệu** và **mô hình nguyên mẫu** 
 
 ## 2. 🌐 Trung tâm Quản lý Dự án (Project Hub)
 Tất cả các hoạt động lập kế hoạch, theo dõi tiến độ và tài liệu của dự án được quản lý tại:
-* **[Link đến trang Notion/Website của nhóm]**
+* **[[Link đến trang Notion/Website của nhóm]]**(https://github.com/hwinhwork-dot/Du-an-AI---Group-11)
 
 ## 3. 👨‍💻 Đội ngũ Phát triển (The Team)
 
