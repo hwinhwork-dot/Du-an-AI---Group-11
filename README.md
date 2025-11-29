@@ -30,13 +30,13 @@ Dự án được thực hiện theo phương pháp **Agile/Scrum** kết hợp 
 
 | Sprint | Thời gian | Mục tiêu (Objective) | Kết quả đầu ra chính (Key Deliverables) |
 | :--- | :--- | :--- | :--- |
-| **Sprint 0**<br>*Khởi động* | 06/10 - 22/10 | **Project Kick-off**: Chọn đề tài, lập AI Canvas v1, phân vai trò, thiết lập công cụ. | 📄 AI Canvas (v1)<br>🛠️ GitHub Repo & Setup |
-| **Sprint 1**<br>*Business* | 23/10 - 05/11 | **Business Understanding**: Phân tích nghiệp vụ, xác định ROI, hoàn thiện Business Case. | 📈 Báo cáo Phân tích Kinh doanh<br>📄 AI Canvas (v2) |
-| **Sprint 2&3**<br>*Planning* | 05/11 - 15/11 | **Data & Modeling Planning**: Thiết kế kiến trúc hệ thống, kế hoạch dữ liệu và Mockups. | 📐 Tài liệu Thiết kế Giải pháp<br>🖥️ Mockups UI |
-| **Sprint 4**<br>*Data Pipeline* | 20/11 - 03/12 | **Data Execution**: Thực thi EDA, xây dựng bộ từ điển (Vocab) và DataLoader. | ⚙️ DataLoader & Unit Tests<br>📦 File `vocab.pt` |
-| **Sprint 5**<br>*Modeling V1* | 04/12 - 17/12 | **Modeling Baseline**: Xây dựng và huấn luyện mô hình Seq2Seq (LSTM) cơ bản. | 🧠 Checkpoint Model V1<br>📉 Training Logs |
-| **Sprint 6**<br>*Eval & V2* | 18/12 - 31/12 | **Evaluation & Improvement**: Đánh giá V1 (WER), phát triển Model V2 (Attention). | 📊 Báo cáo WER (V1 vs V2)<br>🧠 Checkpoint Model V2 |
-| **Sprint 7**<br>*Final Ops* | 01/01 - 14/01 | **Operationalization**: Đóng gói sản phẩm, Demo Gradio, Báo cáo cuối kỳ. | 🚀 Link Demo (Gradio)<br>🏆 Báo cáo & Brochure |
+| **Sprint 0**<br>*Khởi động* | 01/10 - 15/10 | **Project Kick-off**: Chọn đề tài, lập AI Canvas v1, phân vai trò, thiết lập công cụ. | 📄 AI Canvas (v1)<br>🛠️ GitHub Repo & Setup |
+| **Sprint 1**<br>*Business* | 06/10 - 15/10 | **Business Understanding**: Phân tích nghiệp vụ, xác định ROI, hoàn thiện Business Case. | 📈 Báo cáo Phân tích Kinh doanh<br>📄 AI Canvas (v2) |
+| **Sprint 2&3**<br>*Planning* | 15/10 - 19/10 | **Data & Modeling Planning**: Thiết kế kiến trúc hệ thống, kế hoạch dữ liệu và Mockups. | 📐 Tài liệu Thiết kế Giải pháp<br>🖥️ Mockups UI |
+| **Sprint 4**<br>*Data Pipeline* | 15/10 - 19/10 | **Data Execution**: Thực thi EDA, xây dựng bộ từ điển (Vocab) và DataLoader. | ⚙️ DataLoader & Unit Tests<br>📦 File `vocab.pt` |
+| **Sprint 5**<br>*Modeling V1* | 11/10 - 24/10 | **Modeling Baseline**: Xây dựng và huấn luyện mô hình Seq2Seq (LSTM) cơ bản. | 🧠 Checkpoint Model V1<br>📉 Training Logs |
+| **Sprint 6**<br>*Eval & V2* | 25/10 - 03/11 | **Evaluation & Improvement**: Đánh giá V1 (WER), phát triển Model V2 (Attention). | 📊 Báo cáo WER (V1 vs V2)<br>🧠 Checkpoint Model V2 |
+| **Sprint 7**<br>*Final Ops* | 04/01 - 30/11 | **Operationalization**: Đóng gói sản phẩm, Demo Gradio, Báo cáo cuối kỳ. | 🚀 Link Demo (Gradio)<br>🏆 Báo cáo & Brochure |
 
 ## 5. 🛠️ Công nghệ & Phương pháp luận (Tech Stack & Methodology)
 * **Phương pháp luận:** CPMAI x Agile/Scrum
