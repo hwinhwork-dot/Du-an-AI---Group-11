@@ -10,7 +10,7 @@
 
 ---
 
-### Sprint 0: Project Kick-off & Planning (01/10/2025 - 15/10/2025)
+### Sprint 0: Project Kick-off & Planning (01/10/2025 - 05/10/2025)
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -23,7 +23,7 @@
 
 ---
 
-### Sprint 1: Business Understanding & Case Building (16/10/2025 - 30/10/2025)
+### Sprint 1: Business Understanding & Case Building (06/10/2025 - 15/10/2025)
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -36,7 +36,7 @@
 
 ---
 
-### Sprint 2 & 3: Data & Modeling Planning (01/11/2025 - 30/10/2025)
+### Sprint 2 & 3: Data & Modeling Planning (15/10/2025 - 19/10/2025)
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -47,7 +47,7 @@
 | [Báo cáo lần 2] Phân công Slides và Thuyết trình | **A** | **R** | **R** | **R** | **R** | **R** | **R** |
 ---
 
-### Sprint 4: Data Pipeline Execution (10/10/2025 - 11/10/2025)
+### Sprint 4: Data Pipeline Execution (15/10/2025 - 19/10/2025)
 * **Mục tiêu Sprint:** Thực thi Pha 2 & 3 (Data Understanding & Preparation).
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
