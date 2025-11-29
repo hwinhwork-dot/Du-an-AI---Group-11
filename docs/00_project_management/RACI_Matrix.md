@@ -10,7 +10,7 @@
 
 ---
 
-### Sprint 0: Project Kick-off & Planning (06/10/2025 - 22/10/2025)
+### Sprint 0: Project Kick-off & Planning (01/10/2025 - 15/10/2025)
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -23,7 +23,7 @@
 
 ---
 
-### Sprint 1: Business Understanding & Case Building (23/10/2025 - 05/11/2025)
+### Sprint 1: Business Understanding & Case Building (16/10/2025 - 30/10/2025)
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -36,8 +36,7 @@
 
 ---
 
-### Sprint 2 & 3: Data & Modeling Planning (05/11/2025 - 15/11/2025)
-*(Các task được cập nhật từ Issues #9, #10, #12, #14)*
+### Sprint 2 & 3: Data & Modeling Planning (01/11/2025 - 30/10/2025)
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -48,7 +47,7 @@
 | [Báo cáo lần 2] Phân công Slides và Thuyết trình | **A** | **R** | **R** | **R** | **R** | **R** | **R** |
 ---
 
-### Sprint 4: Data Pipeline Execution (20/11/2025 - 03/12/2025)
+### Sprint 4: Data Pipeline Execution (10/10/2025 - 11/10/2025)
 * **Mục tiêu Sprint:** Thực thi Pha 2 & 3 (Data Understanding & Preparation).
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
@@ -60,7 +59,7 @@
 
 ---
 
-### Sprint 5: Modeling (Xây dựng Mô hình Baseline) (04/12/2025 - 17/12/2025)
+### Sprint 5: Modeling (Xây dựng Mô hình Baseline) (11/10/2025 - 24/10/2025)
 * **Mục tiêu Sprint:** Thực thi Pha 4 (Data Modeling - Vòng lặp 1).
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
@@ -71,7 +70,7 @@
 
 ---
 
-### Sprint 6: Evaluation (V1) & Modeling (Cải tiến V2) (18/12/2025 - 31/12/2025)
+### Sprint 6: Evaluation (V1) & Modeling (Cải tiến V2) (25/10/2025 - 03/11/2025)
 * **Mục tiêu Sprint:** Thực thi Pha 5 (Evaluation - Vòng lặp 1) & Pha 4 (Data Modeling - Vòng lặp 2).
 
 | Công việc (Issue) | Minh (SM) | Diệu (PO) | Vũ Quỳnh | Kiệt | Huy | Ân | Vương Quỳnh |
@@ -82,7 +81,7 @@
 
 ---
 
-### Sprint 7: Final Evaluation & Operationalization (01/01/2026 - 14/01/2026)
+### Sprint 7: Final Evaluation & Operationalization (04/11/2026 - 30/11/2026)
 * **Mục tiêu Sprint:** Thực thi Pha 5 (Vòng lặp 2) & Pha 6 (Vận hành hóa).
 * **Deliverables:** Báo cáo so sánh V1 vs V2; Link demo Gradio; Tài liệu dự án hoàn chỉnh.
 
